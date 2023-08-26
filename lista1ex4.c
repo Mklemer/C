@@ -10,10 +10,10 @@ int main()
     if (n2 >= r){
         r = n2;
     }
-    if (n3 >= r){
+    else if (n3 >= r){
         r = n3;
     }
-    if (n4 >= r){
+    else if (n4 >= r){
         r = n4;
     }    
 
